@@ -5,26 +5,50 @@
 # Library-Management
 ### AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
-### PROBLEM STATEMENT:
-To create Library Management System software that will meet the needs of the applicant
-and help them to registering and buy the book for the Library, modification in database and
-cancellation for the registered project.
-### OVERALL DESCRIPTION:
-The Library Management System is an integrated system that has four modules as part of
-it. The four modules are
-#### Registration for Membership:
-In this module, the user can select the books to register for the library,Modification in the book
-database, cancelling the books.
-#### Book details:
-In this module the user can search for the books by giving bookie in the project and selecting
-the semester for the book.
-Maintaining Book Details:
-In this module the administrator can change the data’s like the semester, address, books can be
-done.
-#### Cancellation for the Book:
-In this module the user can cancel their name which is registered for the Book.
-### SOFTWARE REQUIRMENTS:
-Star UML
+# SRS (Procedure):
+# 1. Class Diagram
+Identify classes with attributes and methods.
+
+Define relationships (association, generalization, aggregation).
+
+Use class boxes and connectors.
+
+# 2. Use Case Diagram
+Identify actors and use cases.
+
+Draw actors outside, use cases inside the system boundary.
+
+Connect actors to use cases; use <<include>>, <<extend>> if needed.
+
+# 3. Activity Diagram
+Identify activities, decisions, start and end nodes.
+
+Use flow arrows, decision diamonds, and activity boxes.
+
+Represent process flow clearly.
+
+# 4. Package Diagram
+Group related classes into packages.
+
+Draw packages using folder-like symbols.
+
+Show dependencies between packages with dashed arrows.
+
+# 5. Sequence Diagram
+Identify objects and message sequence.
+
+Draw lifelines vertically.
+
+Use horizontal arrows for messages (in order from top to bottom).
+
+Show activation bars if needed.
+
+# 6. Communication Diagram
+Identify objects and interactions.
+
+Represent objects as boxes connected by lines.
+
+Label messages with sequence numbers and direction arrows.
 ### UML Diagrams:
 # USE CASE DIAGRAM
 
