@@ -40,7 +40,8 @@ Star UML
 
 ## ACTIVITY DIAGRAM
 
-<img width="1027" height="856" alt="activity" src="https://github.com/user-attachments/assets/f6079111-0982-4644-8fee-c20329867b10" />
+<img width="721" height="990" alt="image" src="https://github.com/user-attachments/assets/278525b5-e3a2-430e-bcf4-ed8cbb98371e" />
+
 
 ## COMMUNICATION DIAGRAM
 
