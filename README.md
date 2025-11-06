@@ -21,7 +21,7 @@ Draw actors outside, use cases inside the system boundary.
 Connect actors to use cases; use <<include>>, <<extend>> if needed.
 
 # 3. Activity Diagram
-Identify activities, decisions, start and end nodes.
+Identify activities, decisions, start and end nodes. 
 
 Use flow arrows, decision diamonds, and activity boxes.
 
